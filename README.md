@@ -51,7 +51,7 @@ python reggc_main.py
 ```
 
 ## References
-* [1] http://outreach.didichuxing.com/research/opendata/
+* [1] http://outreach.didichuxing.com
 * [2] Jilin Hu, Chenjuan Guo, Bin Yang, Christian S. Jensen, Stochastic Weight Completion for Road Networks Using Graph Convolutional Networks (ICDE 2019)
 * [3] P. Newson and J. Krumm, “Hidden markov map matching through noise and sparseness,” in SIGSPATIAL, 2009.
 # RegGC
