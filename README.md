@@ -23,7 +23,7 @@ GeForce GTX 1080 Ti 11 GB GPU
 * The second dataset (XN) is an open GPS data set [1], which contains 137 gigabytes of GPS data in Xi’an city’s second ring road region in October and November of 2016 in China.
 * The third dataset (CD) is an open GPS data set [1], which contains 196 gigabytes of GPS data in Chengdu second ring road region in October and November of 2016 in China.
 
-HK dataset is confidential, which is provided by Prof. S.C. Wong of Civil Engineering in HKU; XN and CD datasets are open datasets from the didi company. You can go to the didichuxing website to submit a data access application for them.
+HK dataset is confidential; XN and CD datasets are open datasets from the didi company. You can go to the didichuxing website to submit a data access application for them.
 
 ## Data preprocessing
 
@@ -54,4 +54,3 @@ python reggc_main.py
 * [1] http://outreach.didichuxing.com
 * [2] Jilin Hu, Chenjuan Guo, Bin Yang, Christian S. Jensen, Stochastic Weight Completion for Road Networks Using Graph Convolutional Networks (ICDE 2019)
 * [3] P. Newson and J. Krumm, “Hidden markov map matching through noise and sparseness,” in SIGSPATIAL, 2009.
-# RegGC
